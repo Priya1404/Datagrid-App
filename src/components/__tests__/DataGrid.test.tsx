@@ -1,7 +1,6 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import DataGrid from '../DataGrid';
-import { data } from '../../utils/data';
 
 describe('DataGrid Component', () => {
   test('renders DataGrid with correct headers', () => {

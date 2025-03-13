@@ -13,6 +13,7 @@ This is a simple DataGrid application built with React and TypeScript. It allows
 1. Clone the repository:
    ```bash
    git clone https://github.com/Priya1404/Datagrid-App.git
+   cd my-datagrid-app
 
 2. Install dependencies:
     ```npm install
